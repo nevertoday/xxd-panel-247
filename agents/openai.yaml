@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 247"
+  short_description: "柔性童书：上半保留原照，下半收成彩铅水彩的诗性小品和大片留白"
+  default_prompt: "Use $xxd-panel-247 to transform my photograph following the complete canonical source brief."
