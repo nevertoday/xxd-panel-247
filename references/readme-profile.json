@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 247｜Soft Storybook: strips a photo down to one core image — a house, a tree, a person, an object — and redraws it as a small poetic storybook vignette in soft coloured pencil and transparent watercolour with pastel grain and handmade paper texture, fine lines with slight hand wobble, a muted childhood-memory palette of cream yellow, misty pink, pale blue, sage green and warm ivory drawn from the photo, the subject small or off-centre inside wide white space, and a tiny handwritten, fine-serif or soft sans note. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-247 or asks for gentle nostalgic picture-book, coloured-pencil watercolour illustration from a photo.",
+  "short_description": "柔性童书：把照片主体收成彩铅水彩的诗性童书小品，四周是大片留白",
+  "zh-CN": {
+    "name": "柔性童书",
+    "tagline": "把照片里的一个形象收成彩铅水彩的童书小品，四周是大片留白。",
+    "look": "照片被删到只剩一个核心形象，比如一座房子、一棵树、一个人或一件小物，画成童书里一小段诗意的片刻。线是纤细的彩铅线，带一点手绘误差；透明水彩和粉彩颗粒轻轻上色，纸张纹理留着。颜色是从照片调出来的柔和粉彩：奶油黄、雾粉、浅蓝、鼠尾草绿、暖象牙白。主体缩小、偏心或悬在大片空白里，旁边可以有一句很小的手写或细衬线注释，像绘本旁的小标记。",
+    "traits": ["柔性童书", "彩铅水彩", "诗性小品", "小主体", "大留白", "童年记忆色"],
+    "good": [
+      "一个温柔的核心形象：一座小房子、一棵树、一个孩子、一只旧泰迪熊",
+      "安静的日常瞬间：窗台上的花、雨后小路、空着的秋千",
+      "想做成绘本页、童年回忆或小卡片的照片"
+    ],
+    "poor": [
+      "热闹、元素很多的大场景，大部分会被删掉",
+      "想要鲜艳儿童动画、动漫或商业儿童插画风格",
+      "需要精确细节或写实人像的照片"
+    ]
+  },
+  "en": {
+    "name": "Soft Storybook",
+    "tagline": "Turns one image from your photo into a small coloured-pencil and watercolour storybook vignette.",
+    "look": "The photo is pared down to one core image, such as a house, a tree, a person or a small object, and drawn as a short poetic moment from a children's book. Lines are fine coloured pencil with a slight hand wobble; transparent watercolour and pastel grain add gentle colour, and the paper texture stays visible. The palette is soft pastel mixed from the photo: cream yellow, misty pink, pale blue, sage green, warm ivory. The subject is shrunk, off-centre or floating in a wide blank space, and a tiny handwritten or fine-serif note can sit beside it like a margin mark in a picture book.",
+    "traits": ["Soft storybook", "Coloured pencil and watercolour", "Poetic vignette", "Small subject", "Wide white space", "Childhood palette"],
+    "good": [
+      "One gentle core image: a small house, a tree, a child, an old teddy bear",
+      "Quiet everyday moments: flowers on a windowsill, a path after rain, an empty swing",
+      "Photos you want as a picture-book page, a childhood memory or a small card"
+    ],
+    "poor": [
+      "Busy scenes with many elements; most of them will be removed",
+      "Wanting a bright children's cartoon, anime or commercial kids' illustration look",
+      "Photos that need exact detail or a realistic portrait"
+    ]
+  },
+  "ja": {
+    "name": "やわらかな絵本",
+    "tagline": "写真の中の一つの姿を、色鉛筆と水彩の小さな絵本の一場面にします。まわりは広い余白です。",
+    "look": "写真を一つの核となる姿、たとえば一軒の家、一本の木、一人の人、小さなものだけに絞り込み、絵本の中の短く詩的な一瞬として描きます。線は細い色鉛筆で、手描きの揺れが少し残ります。透明水彩とパステルの粒子でやさしく色をのせ、紙の質感も残します。色は写真から調合したやわらかなパステル：クリームイエロー、霧のようなピンク、淡い青、セージグリーン、温かいアイボリー。主役は小さく、中心からずれたり広い余白に浮かんだりし、絵本の欄外の印のような小さな手書きや細いセリフ体の注記を添えることもできます。",
+    "traits": ["やわらかな絵本", "色鉛筆と水彩", "詩的な小品", "小さな主役", "広い余白", "子どもの頃の色"],
+    "good": [
+      "やさしい核となる姿が一つある写真：小さな家、一本の木、子ども、古いテディベア",
+      "静かな日常の瞬間：窓辺の花、雨上がりの小道、誰もいないブランコ",
+      "絵本のページ、子どもの頃の思い出、小さなカードにしたい写真"
+    ],
+    "poor": [
+      "にぎやかで要素の多い広い場面（ほとんどが省かれます）",
+      "鮮やかな子ども向けアニメ、アニメ調、商業的な児童イラストを求める場合",
+      "正確な細部や写実的な人物画が必要な写真"
+    ]
+  },
+  "ko": {
+    "name": "부드러운 그림책",
+    "tagline": "사진 속 한 장면을 색연필과 수채로 그린 작은 그림책 한 컷으로 바꿉니다. 둘레는 넓은 여백입니다.",
+    "look": "사진을 집 한 채, 나무 한 그루, 사람 하나, 작은 물건 하나처럼 핵심 이미지 하나만 남기고, 그림책 속 짧고 시적인 한순간으로 그립니다. 선은 가는 색연필로 손그림의 흔들림이 조금 남고, 투명 수채와 파스텔 입자로 부드럽게 색을 올리며 종이 결도 남깁니다. 색은 사진에서 섞어 낸 부드러운 파스텔입니다: 크림 노랑, 안개 같은 분홍, 연한 파랑, 세이지 그린, 따뜻한 아이보리. 주인공은 작게 줄거나 중심에서 벗어나거나 넓은 여백에 떠 있고, 그림책 여백의 표시처럼 작은 손글씨나 가는 세리프 메모를 곁들일 수 있습니다.",
+    "traits": ["부드러운 그림책", "색연필과 수채", "시적인 소품", "작은 주인공", "넓은 여백", "어린 시절 색"],
+    "good": [
+      "부드러운 핵심 이미지 하나: 작은 집, 나무 한 그루, 아이, 낡은 곰 인형",
+      "조용한 일상의 순간: 창턱의 꽃, 비 갠 오솔길, 빈 그네",
+      "그림책 페이지, 어린 시절 추억, 작은 카드로 만들고 싶은 사진"
+    ],
+    "poor": [
+      "북적이고 요소가 많은 장면(대부분이 지워집니다)",
+      "선명한 어린이 애니메이션, 애니풍, 상업 아동 일러스트를 원하는 경우",
+      "정확한 세부나 사실적인 인물화가 필요한 사진"
+    ]
+  },
+  "ar": {
+    "name": "كتاب الحكايات الناعم",
+    "tagline": "يحوّل صورة واحدة من لقطتك إلى مشهد صغير من كتاب أطفال بالأقلام الملوّنة والألوان المائية وسط فراغ أبيض واسع.",
+    "look": "تُختزل الصورة إلى صورة أساسية واحدة، كبيت أو شجرة أو شخص أو غرض صغير، وتُرسم لحظةً شعرية قصيرة من كتاب أطفال. الخطوط رفيعة بالأقلام الملوّنة فيها ارتعاش خفيف لليد، وتضيف الألوان المائية الشفافة وحبيبات الباستيل لوناً لطيفاً، ويبقى ملمس الورق ظاهراً. الألوان باستيل ناعمة مستمدة من الصورة: أصفر كريمي، وردي ضبابي، أزرق فاتح، أخضر المريمية، عاجي دافئ. يصغُر العنصر أو يبتعد عن المركز أو يطفو في فراغ واسع، ويمكن أن تجاوره ملاحظة صغيرة بخط اليد أو بخط مذيّل رفيع، كعلامة في هامش كتاب مصوّر.",
+    "traits": ["كتاب حكايات ناعم", "أقلام ملوّنة وألوان مائية", "مشهد شعري صغير", "عنصر صغير", "فراغ أبيض واسع", "ألوان الطفولة"],
+    "good": [
+      "صورة أساسية واحدة لطيفة: بيت صغير، شجرة، طفل، دب محشو قديم",
+      "لحظات يومية هادئة: زهور على حافة نافذة، درب بعد المطر، أرجوحة فارغة",
+      "صور تريدها صفحة في كتاب مصوّر أو ذكرى طفولة أو بطاقة صغيرة"
+    ],
+    "poor": [
+      "مشاهد مزدحمة بعناصر كثيرة؛ سيُحذف معظمها",
+      "الرغبة في مظهر رسوم أطفال متحركة زاهية أو أنمي أو رسوم أطفال تجارية",
+      "صور تحتاج إلى تفاصيل دقيقة أو صورة شخصية واقعية"
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-247
-description: "Create XXD Panel 247 raster artwork: a faithful photograph paired with a soft nostalgic storybook vignette in colored pencil and transparent watercolor, with one small subject in a wide field of paper. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-247 or asks for this 柔性童书 style."
+description: "XXD Panel 247｜Soft Storybook: strips a photo down to one core image — a house, a tree, a person, an object — and redraws it as a small poetic storybook vignette in soft coloured pencil and transparent watercolour with pastel grain and handmade paper texture, fine lines with slight hand wobble, a muted childhood-memory palette of cream yellow, misty pink, pale blue, sage green and warm ivory drawn from the photo, the subject small or off-centre inside wide white space, and a tiny handwritten, fine-serif or soft sans note. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-247 or asks for gentle nostalgic picture-book, coloured-pencil watercolour illustration from a photo."
 ---
 
 # XXD Panel 247
